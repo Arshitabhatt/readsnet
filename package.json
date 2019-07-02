@@ -1,0 +1,15 @@
+{
+  "name": "landing-static",
+  "version": "1.0.0",
+  "description": "\"A simple static app\"",
+  "main": "\"index.js\"",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Arshita",
+  "license": "ISC",
+  "homepage": "https://Arshitabhatt.github.io/readsnet",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
