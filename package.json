@@ -8,7 +8,7 @@
   },
   "author": "Arshita",
   "license": "ISC",
-  "homepage": "https://Arshitabhatt.github.io/readsnet",
+  "homepage": "https://Arshitabhatt.github.io/readsnet/index.html",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
